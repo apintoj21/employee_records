@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1982bff0-d2cb-49c4-b27c-19a9bb2873b8" name="Default Changelist" comment="add app emp_dash" />
+    <list default="true" id="1982bff0-d2cb-49c4-b27c-19a9bb2873b8" name="Default Changelist" comment="initial">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emp_rec/emp_rec/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/emp_rec/emp_rec/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emp_rec/emp_rec/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/emp_rec/emp_rec/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593609766853</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial">
+      <created>1593610024218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593610024218</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,7 +85,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="database to postgresql" />
     <MESSAGE value="add app emp_dash" />
-    <option name="LAST_COMMIT_MESSAGE" value="add app emp_dash" />
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="9" key="SettingsEditor" timestamp="1593609309090">
