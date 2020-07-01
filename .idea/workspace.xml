@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1982bff0-d2cb-49c4-b27c-19a9bb2873b8" name="Default Changelist" comment="" />
+    <list default="true" id="1982bff0-d2cb-49c4-b27c-19a9bb2873b8" name="Default Changelist" comment="database to postgresql">
+      <change beforePath="$PROJECT_DIR$/.idea/employee_records.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/employee_records.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emp_rec/emp_rec/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/emp_rec/emp_rec/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +39,10 @@
       <updated>1593603690905</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="database to postgresql" />
+    <option name="LAST_COMMIT_MESSAGE" value="database to postgresql" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593604691040">
