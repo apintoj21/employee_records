@@ -1,0 +1,10 @@
+{% extends 'header.html' %}
+
+{% block content %}
+{% if user.is_authenticated %}
+  <h1 style="text-align:center">Hi {{ user.username }}!</h1>
+{% else %}
+  <p>You are not logged in</p>
+  <a href="{% url 'login' %}">login</a>
+{% endif %}
+{% endblock %}
