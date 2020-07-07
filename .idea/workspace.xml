@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1982bff0-d2cb-49c4-b27c-19a9bb2873b8" name="Default Changelist" comment="login page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emp_rec/emp_dash/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/emp_rec/emp_dash/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emp_rec/emp_rec/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/emp_rec/emp_rec/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emp_rec/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/emp_rec/templates/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emp_rec/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/emp_rec/templates/home.html" afterDir="false" />
-    </list>
+    <list default="true" id="1982bff0-d2cb-49c4-b27c-19a9bb2873b8" name="Default Changelist" comment="bokeh install" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593616646193</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bokeh install">
+      <created>1594142154358</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594142154358</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +137,8 @@
     <MESSAGE value="add app emp_dash" />
     <MESSAGE value="initial" />
     <MESSAGE value="login page" />
-    <option name="LAST_COMMIT_MESSAGE" value="login page" />
+    <MESSAGE value="bokeh install" />
+    <option name="LAST_COMMIT_MESSAGE" value="bokeh install" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593692234808">
