@@ -3,6 +3,8 @@
 {% block content %}
 {% if user.is_authenticated %}
   <h1 style="text-align:center">Hi {{ user.username }}!</h1>
+<!--  <a class="btn btn-default" href="{% url 'dash' %}">dashboard</a>-->
+<button type="button" class="btn btn-primary" onclick="{% url 'dash' %}">Dashboard</button>
 {% else %}
   <p>You are not logged in</p>
   <a href="{% url 'login' %}">login</a>
