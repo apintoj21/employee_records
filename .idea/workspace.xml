@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594142154358</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="bokeh install">
+      <created>1594142370770</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594142370770</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,10 +172,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593609309090" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593698131268">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1594142390190">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593698131268" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594142390190" />
     <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1593691973511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
