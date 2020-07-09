@@ -1,0 +1,27 @@
+{% include 'imports.html' %}
+{% include 'navbar.html' %}
+{% include 'jumbotron.html' %}
+{% include 'dashboard.html' %}
+
+<html lang="en">
+<head>
+    <title>Employee Database</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% block imports %}
+    {% endblock %}
+        {{ script | safe }}
+
+</head>
+<body>
+    {% block navbar %}
+    {% endblock %}
+    {% block jumbotron %}
+    {% endblock %}
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
+</body>
+</html>
+
