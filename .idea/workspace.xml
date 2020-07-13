@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1982bff0-d2cb-49c4-b27c-19a9bb2873b8" name="Default Changelist" comment="postgresql data retrival check">
+    <list default="true" id="1982bff0-d2cb-49c4-b27c-19a9bb2873b8" name="Default Changelist" comment="donut chart &amp; geo mapping">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594317394839</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="donut chart &amp; geo mapping">
+      <created>1594653830728</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1594653830744</updated>
+    </task>
+    <task id="LOCAL-00009" summary="donut chart &amp; geo mapping">
+      <created>1594653847486</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594653847486</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,13 +269,18 @@
     <MESSAGE value="login page" />
     <MESSAGE value="bokeh install" />
     <MESSAGE value="postgresql data retrival check" />
-    <option name="LAST_COMMIT_MESSAGE" value="postgresql data retrival check" />
+    <MESSAGE value="donut chart &amp; geo mapping" />
+    <option name="LAST_COMMIT_MESSAGE" value="donut chart &amp; geo mapping" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593692234808">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593692234808" />
+    <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1594659856956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594659856956" />
     <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1594653694148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -302,11 +321,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593609309090" />
-    <state x="387" y="137" key="Vcs.Push.Dialog.v2" timestamp="1594317404713">
+    <state x="387" y="137" key="Vcs.Push.Dialog.v2" timestamp="1594653961713">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594142580222" />
-    <state x="387" y="137" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594317404713" />
+    <state x="387" y="137" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594653961713" />
     <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1593691973511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
